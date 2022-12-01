@@ -14,3 +14,4 @@ idet v main i my commitaem text
 nu a eto my dobavlzem v ficha branch
 noviy kuplet
 
+for tag only
